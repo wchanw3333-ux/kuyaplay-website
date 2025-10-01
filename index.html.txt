@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KuyaPlay | Trusted Online Casino in the Philippines</title>
+  <meta name="description" content="KuyaPlay is a legit and legal online casino in the Philippines. Play slots, fishing, card games, and live dealer casino from top providers like JILI, PG, and Pragmatic Play. Enjoy high RTP, fast payments, and safe gaming.">
+  <style>
+    body {margin:0;font-family:Arial, sans-serif;background:#0d0d0d;color:#f2f2f2;line-height:1.6;}
+    header {background:#111;padding:20px;text-align:center;}
+    header img {max-height:80px;margin-bottom:10px;}
+    header h1 {font-size:2.2rem;color:#FFD700;margin:10px 0;}
+    header p {font-size:1.1rem;color:#ccc;}
+    .btn {display:inline-block;padding:12px 24px;margin:10px;border-radius:6px;text-decoration:none;font-weight:bold;}
+    .btn-primary {background:#FFD700;color:#000;}
+    .btn-secondary {background:#333;color:#FFD700;border:1px solid #FFD700;}
+    section {padding:60px 20px;max-width:1200px;margin:auto;}
+    h2 {color:#FFD700;margin-bottom:20px;}
+    h3 {color:#f2f2f2;margin-top:15px;}
+    .grid {display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px;}
+    .card {background:#1a1a1a;padding:20px;border-radius:10px;box-shadow:0 0 15px rgba(255,215,0,0.1);}
+    .card img {width:100%;border-radius:10px;margin-bottom:15px;}
+    footer {background:#111;padding:20px;text-align:center;color:#777;font-size:0.9rem;}
+  </style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <header>
+    <img src="images/logo.jpg" alt="KuyaPlay Casino Official Logo">
+    <h1>KuyaPlay Casino – Play, Win & Enjoy Safe Gaming</h1>
+    <p>Trusted & Legal Online Casino in the Philippines | Slots • Fishing • Card Games • Live Dealer</p>
+    <a href="https://gvipbet7.com/register?code=ncqxp" class="btn btn-primary">Register Now</a>
+    <a href="https://gvipbet7.com/register?code=ncqxp" class="btn btn-secondary">Login</a>
+    <a href="https://gvipbet7.com/register?code=ncqxp" class="btn btn-secondary">Download App</a>
+  </header>
+
+  <!-- WHY CHOOSE -->
+  <section>
+    <h2>Why Filipino Players Choose KuyaPlay</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Legal & Legit</h3>
+        <p>KuyaPlay is licensed and compliant with Philippine gaming laws, ensuring safe and legal casino gaming.</p>
+      </div>
+      <div class="card">
+        <h3>High RTP Games</h3>
+        <p>Enjoy top providers like JILI, PG Soft, Pragmatic Play, and PP with certified fairness and high payout rates.</p>
+      </div>
+      <div class="card">
+        <h3>Fast Deposits & Withdrawals</h3>
+        <p>Support for GCash, PayMaya, and crypto. Get your winnings in as fast as 5–15 minutes.</p>
+      </div>
+      <div class="card">
+        <h3>Exclusive Promotions</h3>
+        <p>Daily bonuses, cashback up to 0.8%, VIP rewards, and exciting events like Lucky Egg Smash & Red Envelope Rain.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- GAMES -->
+  <section>
+    <h2>Explore KuyaPlay Casino Games</h2>
+    <div class="grid">
+      <div class="card">
+        <img src="images/slots.jpg" alt="Slot machines KuyaPlay high RTP">
+        <h3>Slots</h3>
+        <p>Spin popular titles with high RTP and massive jackpots. From PG’s Fortune Gems to PP’s Gates of Olympus, slots at KuyaPlay guarantee thrill and big wins.</p>
+      </div>
+      <div class="card">
+        <img src="images/fishing.jpg" alt="Fishing arcade game Philippines KuyaPlay">
+        <h3>Fishing Games</h3>
+        <p>Shoot, aim, and win with skill-based fishing games like Dinosaur Tycoon. High returns and explosive fun await!</p>
+      </div>
+      <div class="card">
+        <img src="images/cards.jpg" alt="Card games baccarat poker blackjack">
+        <h3>Card Games</h3>
+        <p>Enjoy baccarat, blackjack, and poker with smooth gameplay. Perfect for strategic players who love classic casino action.</p>
+      </div>
+      <div class="card">
+        <img src="images/livecasino.jpg" alt="Live dealer casino Philippines KuyaPlay">
+        <h3>Live Casino</h3>
+        <p>Experience the thrill of real-time roulette, baccarat, and more with professional live dealers streamed in HD.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROMOTIONS -->
+  <section>
+    <h2>Exclusive Promotions & Rewards</h2>
+    <div class="grid">
+      <div class="card">
+        <img src="images/promo1.jpg" alt="KuyaPlay Welcome Bonus Promo">
+        <h3>Welcome Bonus</h3>
+        <p>Double your first deposit with KuyaPlay and start with extra power!</p>
+      </div>
+      <div class="card">
+        <img src="images/promo2.jpg" alt="Daily check-in promotion Philippines">
+        <h3>Daily Rewards</h3>
+        <p>Check in daily for free credits, spins, and vouchers — exclusive for KuyaPlay members.</p>
+      </div>
+      <div class="card">
+        <img src="images/promo3.jpg" alt="VIP rewards KuyaPlay">
+        <h3>VIP Program</h3>
+        <p>Unlock elite rewards, priority withdrawals, birthday gifts, and top-tier cashback rates.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECURITY -->
+  <section>
+    <h2>Legal, Safe & PAGCOR Certified</h2>
+    <img src="images/security.jpg" alt="KuyaPlay casino safe and legal Philippines" style="max-width:200px;">
+    <p>KuyaPlay is committed to responsible gaming and fair play. With PAGCOR certification, players are guaranteed transparency, legal compliance, and top-notch security.</p>
+  </section>
+
+  <!-- FAQ -->
+  <section>
+    <h2>Frequently Asked Questions</h2>
+    <h3>Is KuyaPlay legit and legal in the Philippines?</h3>
+    <p>Yes. KuyaPlay operates under strict compliance and is trusted by Filipino players nationwide.</p>
+    <h3>How do I register?</h3>
+    <p>Click “Register Now”, enter your mobile number, verify via SMS, and start playing instantly.</p>
+    <h3>What payment methods are available?</h3>
+    <p>GCash, PayMaya, GrabPay, online banking, and cryptocurrency are supported.</p>
+  </section>
+
+  <!-- DOWNLOAD -->
+  <section>
+    <h2>Download the KuyaPlay App</h2>
+    <p>Play anywhere, anytime with our mobile-friendly app. Get faster access and exclusive app-only promotions.</p>
+    <a href="#" class="btn btn-primary">Download Now</a>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2025 KuyaPlay Casino. All Rights Reserved. | Secure • Legal • Trusted in the Philippines</p>
+  </footer>
+
+</body>
+</html>
